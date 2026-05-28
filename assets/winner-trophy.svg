@@ -1,0 +1,25 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" rx="54" fill="#020617"/>
+  <circle cx="266" cy="112" r="220" fill="#22C55E" fill-opacity="0.18"/>
+  <circle cx="952" cy="124" r="260" fill="#38BDF8" fill-opacity="0.16"/>
+  <circle cx="600" cy="322" r="230" fill="#FACC15" fill-opacity="0.13"/>
+  <path d="M410 194H790V270C790 374 705 459 601 459H599C495 459 410 374 410 270V194Z" fill="url(#gold)"/>
+  <path d="M463 459H737V510C737 530 721 546 701 546H499C479 546 463 530 463 510V459Z" fill="#B45309"/>
+  <path d="M525 546H675V596H525V546Z" fill="#92400E"/>
+  <path d="M455 596H745C765 596 782 613 782 633V641H418V633C418 613 435 596 455 596Z" fill="#FACC15"/>
+  <path d="M410 234H330C298 234 272 260 272 292C272 372 335 435 415 435H468" stroke="#FACC15" stroke-width="36" stroke-linecap="round"/>
+  <path d="M790 234H870C902 234 928 260 928 292C928 372 865 435 785 435H732" stroke="#FACC15" stroke-width="36" stroke-linecap="round"/>
+  <text x="600" y="117" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">CHAMPIONS CROWNED</text>
+  <text x="600" y="650" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600">Football Simulator Pro</text>
+  <rect x="128" y="192" width="24" height="42" rx="6" fill="#22C55E" transform="rotate(-18 128 192)"/>
+  <rect x="1020" y="200" width="24" height="42" rx="6" fill="#38BDF8" transform="rotate(22 1020 200)"/>
+  <rect x="204" y="492" width="24" height="42" rx="6" fill="#F472B6" transform="rotate(31 204 492)"/>
+  <rect x="950" y="510" width="24" height="42" rx="6" fill="#A78BFA" transform="rotate(-28 950 510)"/>
+  <defs>
+    <linearGradient id="gold" x1="410" y1="194" x2="790" y2="459" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FEF08A"/>
+      <stop offset="0.43" stop-color="#FACC15"/>
+      <stop offset="1" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+</svg>
